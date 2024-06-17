@@ -1,0 +1,28 @@
+--- 
+title: "Cedars Christian School Bylaws"
+author: "Cedars Christian School"
+date: "Amended on ???"
+site: bookdown::bookdown_site
+documentclass: book
+colorlinks: true
+github-repo: Cedars-Christian-School/ccs-bylaws
+description: "These are the bylaws for Cedars Christian School."
+---
+
+# Welcome {-}
+
+Write things here.
+
+Cedars Christian School was established on ???. These bylaws were last amended on ???.
+
+THESE BYLAWS ARE SUBJECT TO ARBITRATION PURSUANT TO THE [INDIANA CODE SECTION 34-57-2-1 ET SEQ](https://iga.in.gov/legislative/laws/2022/ic/titles/034#34-57-2-1).
+
+**Contact us:**
+
+2401 S. Endwright Road  
+Bloomington, Indiana 47403  
+email address here
+phone number here
+
+<!--- End of frontmatter, start of regular page numbering-->
+\mainmatter
