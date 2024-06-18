@@ -26,3 +26,12 @@ phone number here
 
 <!--- End of frontmatter, start of regular page numbering-->
 \mainmatter
+
+<!--chapter:end:index.Rmd-->
+
+# Introduction
+
+Time to get started.
+
+<!--chapter:end:00-introduction.Rmd-->
+
