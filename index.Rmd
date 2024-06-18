@@ -11,7 +11,7 @@ description: "These are the bylaws for Cedars Christian School."
 
 # Welcome {-}
 
-Write things here.
+These are the bylaws for Cedars Christian School.
 
 Cedars Christian School was established on ???. These bylaws were last amended on ???.
 
@@ -21,8 +21,8 @@ THESE BYLAWS ARE SUBJECT TO ARBITRATION PURSUANT TO THE [INDIANA CODE SECTION 34
 
 2401 S. Endwright Road  
 Bloomington, Indiana 47403  
-email address here  
-phone number here  
+office@cedarschristian.org
+(812) 961-6461  
 
 <!--- End of frontmatter, start of regular page numbering-->
 \mainmatter
