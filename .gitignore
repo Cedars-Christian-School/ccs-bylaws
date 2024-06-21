@@ -51,4 +51,7 @@ rsconnect/
 # Book files and folders
 _book
 _bookdown_files
+no-git
 
+# MacOS
+.DS_Store
