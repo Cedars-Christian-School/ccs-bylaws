@@ -1,0 +1,992 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+
+\usepackage[a4paper]{geometry}
+\geometry{left=2cm}
+\geometry{right=2cm}
+\geometry{bottom=2cm}
+\geometry{top=2cm}
+
+%\usepackage{hyperref}
+%\hypersetup{
+%    colorlinks=true,
+%    linkcolor=blue,
+%    filecolor=magenta,
+%    urlcolor=cyan,
+%    }
+
+% https://tex.stackexchange.com/a/233271
+\usepackage[explicit]{titlesec}
+\titleformat{name=\section,numberless}[hang]{}{}{0cm}{%
+  \LARGE #1\markboth{#1}{#1}%
+}
+
+\frontmatter
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{plainnat}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Cedars Christian School Bylaws},
+  pdfauthor={Cedars Christian School},
+  colorlinks=true,
+  linkcolor={Maroon},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Cedars Christian School Bylaws}
+\author{Cedars Christian School}
+\date{Amended on ???}
+
+\begin{document}
+\maketitle
+
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\chapter*{Welcome}\label{welcome}
+\addcontentsline{toc}{chapter}{Welcome}
+
+Write things here.
+
+Cedars Christian School was established on ???. These bylaws were last amended on ???.
+
+THESE BYLAWS ARE SUBJECT TO ARBITRATION PURSUANT TO THE \href{https://iga.in.gov/legislative/laws/2022/ic/titles/034\#34-57-2-1}{INDIANA CODE SECTION 34-57-2-1 ET SEQ}.
+
+\textbf{Contact us:}
+
+2401 S. Endwright Road\\
+Bloomington, Indiana 47403\\
+email address here\\
+phone number here
+
+\mainmatter
+
+\chapter{Introduction}\label{introduction}
+
+Time to get started.
+
+\chapter{Bylaws}\label{bylaws}
+
+\section{1. Name and Purpose}\label{name-and-purpose}
+
+\subsection{1.1 Name}\label{name}
+
+The name of this Corporation shall be Cedars Christian School, Inc.~(``Cedars'').
+
+\subsection{1.2 Purpose}\label{purpose}
+
+Cedars exists chiefly for the glorification and enjoyment of God. Cedars is organized and will be operated exclusively for charitable, religious, educational and scientific purposes within the meaning of 26 U.S.C. §§ 501(c)(3) or the corresponding section of any future United States Internal Revenue Law ("Code"). Within the scope of the foregoing purposes, and not by way of limitation thereof, the Corporation is dedicated to:
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi}.}
+\item
+  provide a quality Christian education across the major disciplines of math, science, language arts and the humanities;
+\item
+  assist and hold accountable parents in leading in the education of their children;
+\item
+  help families bear one another's burdens in the education of their children; and
+\item
+  develop strong work ethic in children.
+\end{enumerate}
+
+To further the Corporation's purposes and mission, the Corporation will have and exercise all of the powers conferred by the provisions of the under the Indiana Nonprofit Corporation Act of 1991 (``Act'').
+
+\subsection{1.3 Limitations on Earnings}\label{limitations-on-earnings}
+
+No part of the net earnings of the Corporation shall inure to the benefit of, or be distributed to, its members, members of the Board of Directors, officers, or other private persons, except that the Corporation shall be authorized and empowered to pay reasonable compensation for services rendered.
+
+\subsection{1.4 Limitation on Political Activities}\label{limitation-on-political-activities}
+
+No substantial part of the activities of the Corporation shall be the carrying on of propaganda or otherwise attempting to influence legislation, and the Corporation shall not participate in, or intervene in (including the publishing or distribution of statements concerning), any political campaign on behalf of any candidate for public office.
+
+\subsection{1.5 Other Limitations on Activities}\label{other-limitations-on-activities}
+
+Notwithstanding any other provision of these Articles of Incorporation, the Corporation shall not carry on any other activities not permitted to be carried on by a corporation exempt under Section 501(c)(3) of the Code.
+
+\section{2. Members}\label{members}
+
+\section{Members}\label{members-1}
+
+The corporation will have members (``Members''). As provided in the Articles of Incorporation, members of Cedars shall be the active and voting members of the session of Trinity Reformed Church of Bloomington, Indiana, Inc.~The Moderator of the session shall preside over all annual, regular, and special meetings of the members.
+
+\section{Membership Certificates}\label{membership-certificates}
+
+Cedars will not have membership certificates unless otherwise authorized by the Board of Directors. The form of any such certificate, if authorized, shall be prescribed by the Board of Directors.
+
+\section{Duration of Membership; Resignation}\label{duration-of-membership-resignation}
+
+Membership in Cedars may terminate by voluntary resignation as provided in these Bylaws or by law. If a member ceases to be an active and voting member of the session of Trinity Reformed Church of Bloomington, Indiana, Inc., then his membership in Cedars ceases. All rights and privileges of a member in Cedars shall cease on the
+termination of membership. Any member may voluntarily resign at any
+time upon fair and reasonable notice to the Board of Directors at
+their next meeting. Resignation of a member shall be effective upon
+such notice, unless the notice is in writing and provides for a later
+effective date. The resignation of a member does not relieve the
+member from any obligations the member may have to Cedars as a result
+of obligations incurred or commitments made before such resignation,
+including any unpaid dues, fees or assessments.
+
+\section{Dues, Fees, and Assessments}\label{dues-fees-and-assessments}
+
+There shall be no membership fees, dues, and assessments applicable to
+membership in the Corporation.
+
+\chapter{Meetings of Members}\label{meetings-of-members}
+
+\section{Annual Meeting of the Members}\label{annual-meeting-of-the-members}
+
+The annual meeting of the Members will be held on the second Thursday
+of May of each year, or at such other time as may be designated by the
+directors in consultation with the Members. Annual meetings of the
+Members should be held within the earlier of nine months after the
+close of the fiscal year or 15 months after the Corporation's last
+annual meeting. The failure to hold an annual or regular meeting at a
+time stated in or fixed in accordance with these Bylaws does not
+affect the validity of any corporate action or work any forfeiture or
+dissolution of the Corporation. Annual membership meetings shall be
+held at the place specified in the notice of the meeting; otherwise,
+such meeting shall be held at the Corporation's principal office.
+
+At the annual meeting of Members, the Members will:
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi})}
+\item
+  receive a report on the activities and financial condition of the
+  corporation from the Principal and Treasurer (or their designees),
+\item
+  elect Directors and the President,
+\item
+  confirm the Head of School, and
+\item
+  transact such other business as may come before the meeting.
+\end{enumerate}
+
+If for any year the day fixed for the annual meeting is a legal
+holiday, such meeting will be held on the next succeeding business
+day. The Members may provide, by resolution, the time and place,
+either within or without the State of Indiana for the holding of
+regular meetings, other than the annual meeting, without notice other
+than such resolution. If the election of Directors is for any reason
+not held on the day designated herein for any annual meeting, or at an
+adjournment thereof, the Members will cause the election to be held at
+a special meeting as soon as conveniently possible.
+
+\section{Regular Members Meetings}\label{regular-members-meetings}
+
+Cedars may hold regular Membership meetings at times stated in or
+fixed by a resolution of the Members. Regular Membership meetings
+shall be held at the place specified in the notice of the meeting;
+otherwise, such meeting shall be held at Cedars's principal office.
+
+\section{Special Members Meetings}\label{special-members-meetings}
+
+Special meetings of the Members may be called by the Principal, by the
+Board of Directors, or by one or more petitions in writing signed,
+dated and delivered by at least one tenth of the Members. Such
+petition or petitions must demand a special meeting and describe the
+purpose for which the meeting is to be held. Special Membership
+meetings shall be held at the place specified in the notice of
+meeting; otherwise, such meetings shall be held at the Corporation's
+principal office.
+
+\section{Notice of Members Meetings}\label{notice-of-members-meetings}
+
+Written notice stating the place, date and time of any meeting of the
+Members and, if the quorum of Members for the meeting is less than
+one‑third or in the case of special meetings, or when otherwise
+required by law, a description of the purpose or purposes for which
+such meeting is called, shall be sent by electronic communication by
+Cedars to each Member of record entitled to vote at such meeting, at
+such electronic address as appears on the records of the Corporation,
+at least ten~but not more than sixty~days before the date of such
+meeting, on being notified of the place, date, and time thereof by the
+officers or persons calling the meeting. Provided, however, any action
+taken by the Members shall not be invalidated, and notice shall not be
+considered improper, if notice, including oral notice, is given in a
+fair and reasonable manner.
+\textgreater{}
+Notice of any meeting may be waived in writing by any Member before or
+after the date and time of the meeting, if the waiver is signed by the
+Member and delivered to Cedars for inclusion in the minutes or filing
+with Cedar's records. A Member's attendance at a meeting (a)~waives
+objection to lack of notice or defective notice of the meeting, unless
+the Member at the beginning of the meeting objects to holding the
+meeting or transacting business at the meeting, and (b)~waives any
+valid objection to consideration of a particular matter at the meeting
+that is not within the purposes described in the meeting notice,
+unless the Member objects to considering the matter when the matter is
+presented.
+
+\section{Members Quorum and Voting}\label{members-quorum-and-voting}
+
+A quorum is two Elders, if there are three or more, or one ruling
+Elder, if there are fewer than three, together with the Pastor, unless
+a higher quorum shall be required by law or the Articles of
+Incorporation. In no case may the Board of Elders conduct its business
+with fewer than two present who are entitled to vote. Each Member
+present will be entitled to one vote upon each matter submitted to a
+vote at any such meeting. All motions will be decided by majority
+vote. If the vote is a tie, the motion does not carry.
+
+\section{Voting List}\label{voting-list}
+
+The Board of Directors may fix a record date to determine the Members
+entitled to notice of a Members' meeting, to demand a special meeting,
+to vote or to take any other action; provided, however, that the
+record date may not exceed seventy~days prior to the meeting or action
+requiring a determination of Members. In the absence of action by the
+Board of Directors to fix a record date as herein provided, the record
+date shall be the date of the meeting or action requiring a
+determination of Members. The Corporation shall keep at all times, at
+the Corporation's principal office, a complete and accurate list of
+all Members entitled to vote by the Articles of Incorporation of the
+Corporation. After fixing a record date for notice of a meeting, the
+Corporation shall prepare a list of the names and electronic addresses
+of the Corporation's Members who are entitled to notice of the
+Members' meeting.
+
+\section{No Voting by Proxy}\label{no-voting-by-proxy}
+
+A Member entitled to vote at any meeting of Members may not vote by
+proxy.
+
+\section{Members Meeting by Remote Communications Technology}\label{members-meeting-by-remote-communications-technology}
+
+A meeting of the Members or any committee designated by the Members
+may be held by means of a remote electronic communications system,
+including videoconferencing technology or the Internet if the system
+provides access to the meeting in a manner or using a method by which
+each person participating in the meeting can communicate concurrently
+with each other participant. A Member's participation in a meeting
+held in a manner provided for in this section constitutes that
+Member's presence at the meeting.
+
+\section{Director Removal; Vacancy}\label{director-removal-vacancy}
+
+A Director elected by the Members may be removed with or without cause
+at any meeting of the Members by a majority vote, provided notice of
+intention to act upon such matter shall have been given in the notice
+calling such meeting.
+\textgreater{}
+A vacancy on the Board of Directors may be filled by the affirmative
+vote of the majority of the Members. Any Director elected to fill a
+vacancy on the Board will serve a term expiring as of the scheduled
+expiration date of the term of that person\textquotesingle s predecessor.
+
+\section{Ultimate Authority and Interpretation}\label{ultimate-authority-and-interpretation}
+
+The final rule of faith and practice for all aspects of
+Cedars---including its teaching, operations, management, and
+administration---is Holy Scripture. The Members have final authority
+over the interpretation and application of Holy Scripture to the work
+of Cedars.
+
+\section{Member Compensation}\label{member-compensation}
+
+Other than reimbursement for qualified expenses, Members will receive
+no compensation for services.
+
+\section{Action by Consent}\label{action-by-consent}
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi})}
+\item
+  Any action required or permitted to be taken at a meeting of the
+  Members may be taken without a meeting if the action is approved by
+  80\% of the Members. The action must be evidenced by at least one (1)
+  written consent which describes the action taken, is signed by the
+  Members representing at least 80\% of the votes entitled to be cast
+  on the action and is delivered to Cedars for inclusion in the
+  minutes or filing with Cedar's records. Requests for written
+  consents must be delivered to all Members entitled to vote. Action
+  taken by written consent is effective when the last Member necessary
+  to meet the 80\% requirement signs the consent, unless a prior or
+  subsequent effective date is specified in the consent.
+\item
+  Subject to satisfying the requirements provided in Section 3.12(a),
+  the Members may take any action electronically as contemplated by
+  the Indiana Uniform Electronic Transactions Act (``UETA''), provided
+  the action is initiated by the Board of Directors. For the sake of
+  clarity and avoidance of doubt, subject to the requirements of the
+  UETA, written consent by the Members can be undertaken via email, or
+  other electronic record communication, if the written consent
+  setting forth the action to be taken is circulated to all Members
+  via email, or other electronic record communication, and at least
+  80\% of the Members indicate their approval by return email or other
+  approved electronic record communication. The Corporation shall
+  confirm with each Member the electronic address or addresses, such
+  as an email address or text message number, for that Member to be
+  used for purposes of sending and receiving email, text or other
+  electronic record communications, and for the purpose of notices to
+  and from the Corporation, and shall maintain such information as
+  part of the Corporation's current records, which may be maintained
+  electronically. The Corporation shall provide its address, and the
+  electronic addresses of the other Members, to be used for purposes
+  of taking such action. The Board of Directors may provide for any
+  particular requirements, method or means for taking action
+  electronically and for notices to and from the Corporation and its
+  Members, in which case the action to be taken shall be taken in
+  accordance with such requirements, method, or means.
+\end{enumerate}
+
+\chapter{Board of Directors}\label{board-of-directors}
+
+\section{General Powers}\label{general-powers}
+
+Other than such rights reserved for the Members under these Bylaws,
+the Articles, or the Act, the affairs of Cedars will be managed by a
+Board of Directors (``Board''). The Board is responsible for overseeing
+all aspects of Cedars Christian School, including its teaching,
+operations, management, and administration.
+
+\section{Qualifications of Directors}\label{qualifications-of-directors}
+
+\begin{quote}
+To qualify for and continue service on the Board, a Director must:
+\end{quote}
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi})}
+\item
+  profess to be a Christian and live as such;
+\item
+  be a man committed to a Biblical view of authority and sexuality,
+  particularly God's ordering of the sexes, as described by
+  the~Declaration of Doctrine and Policies Concerning Sexuality,
+  Chapter 28, Evangel Presbytery Book of Church Order;
+\item
+  be a communicant member and regular attendee of a Bible-believing
+  church; and
+\item
+  hold to Benjamin B. Warfield's ``A Brief and Untechnical Statement of
+  the Reformed Faith.''
+\end{enumerate}
+
+\section{Election and Term}\label{election-and-term}
+
+The Members have the exclusive authority to elect and remove
+directors. The Directors will be elected at the annual meeting of the
+Members. The term of office of a director shall be three years.
+Directors may be elected for successive terms.
+
+\section{Class}\label{class}
+
+To provide for staggered terms of office, the Directors will be
+divided, as evenly as possible, into three classes with respect to the
+time for which they will severally hold office and stand for election.
+The terms of the Directors in the first class will expire with the
+annual election by the Members to be held in the first year, the terms
+of the Directors in the second class will expire at the annual
+election to be held in the second year, and the terms of the Directors
+in the third group will expire at the annual election to be held in
+the third year; provided that, in any event and irrespective of the
+expiration of their terms, the Directors of any class will remain in
+office until their successors have been elected and qualified. At each
+annual meeting of the Members thereafter, the Directors elected and
+qualified to succeed the Directors of any class will be elected for a
+term of three years expiring with the annual meeting of the Members
+occurring the third year thereafter (provided that the Directors of
+any class will remain in office until their successors have been
+elected and qualified), so that the term of office of one class of
+Directors will expire each year. If the total number of Directors is
+changed, any increase or decrease in Directors will be apportioned
+among the classes to maintain all groups of Directors as nearly equal
+in number as possible, and any additional Director elected to any
+group of Directors will hold office for a term which will expire with
+the term of the Directors in such group. Each class has the same
+rights and obligations.
+
+\section{Number of Directors}\label{number-of-directors}
+
+The number of Directors on the Board ("Directors") will initially be
+four. The number of Directors may be changed from time to time by
+resolution of the Board, provided that the number of Directors will be
+set at not fewer than three and not greater than 12. No decrease in
+the number of Directors will have the effect of decreasing the term of
+any incumbent Director. Directors need not be residents of the State
+of Indiana.
+
+\section{Board Meetings}\label{board-meetings}
+
+\begin{quote}
+The President will preside over meetings of the Board, including the
+preparation of meeting agendas. The Board may provide, by resolution,
+the time and place, either within or without the State of Indiana for
+the holding of regular meetings, other than the annual meeting,
+without notice other than such resolution.
+\end{quote}
+
+\section{Annual Meeting}\label{annual-meeting}
+
+\begin{quote}
+The annual meeting of the Board will be held on the First Monday of
+June of each year, which meeting will be held for the transaction of
+such business as may come before the meeting. If for any year the day
+fixed for the annual meeting is a legal holiday, such meeting will be
+held on the next succeeding business day. The annual meeting of the
+Board shall be held at the principal office or place of business of
+the Corporation or such other place either within or without the State
+of Indiana, as may be specified in the respective notices or waivers
+of notice.
+\end{quote}
+
+\section{Special Meeting}\label{special-meeting}
+
+\begin{quote}
+A special meeting of the Board may be called by any two Directors or
+the Principal. Notice to the Directors of a special meeting of the
+Board will be given at least five days prior to the meeting and may be
+delivered personally, by mail, or e-mail, to the address or e-mail
+address for each Director as it appears on the records of the
+Corporation. If mailed, such notice will be deemed to be delivered
+when deposited in the United States mail in a sealed envelope so
+addressed, with postage thereon prepaid.
+\end{quote}
+
+\section{Quorum}\label{quorum}
+
+\begin{quote}
+A majority of the Directors on the Board will constitute a quorum for
+the transaction of business at any meeting of the Board; provided that
+if less than a majority of the Directors are present at said meeting,
+a majority of the Directors present may adjourn the meeting from time
+to time without further notice.
+\end{quote}
+
+\section{Voting}\label{voting}
+
+\begin{quote}
+Each Director present will be entitled to one vote upon each matter
+submitted to a vote at any such meeting. All motions will be decided
+by majority vote. If the vote is a tie, the motion does not carry.
+\end{quote}
+
+\section{Meeting by Remote Communications Technology}\label{meeting-by-remote-communications-technology}
+
+\begin{quote}
+A meeting of the Board or any committee designated by the Board may be
+held by means of a remote electronic communications system, including
+videoconferencing technology or the Internet, only if each person
+entitled to participate in the meeting consents to the meeting being
+held by means of that system; and the system provides access to the
+meeting in a manner or using a method by which each person
+participating in the meeting can communicate concurrently with each
+other participant. A Director's participation in a meeting held in a
+manner provided for in this section constitutes that Director's
+presence at the meeting.
+\end{quote}
+
+\section{Action Without Meetings}\label{action-without-meetings}
+
+\begin{quote}
+Any action required or permitted by law to be taken at any meeting of
+the Board or any committee thereof may be taken without a meeting,
+without prior notice, and without a vote if a consent in writing,
+setting forth the action so taken is signed by at least 80\% of all the
+members of the Board, unless a greater number is required by statute,
+by the Articles or by these Bylaws, in which case the signatures of
+such greater number shall be requisite to constitute the act of the
+Board or the committee. Such written consent shall be filed in the
+minutes or proceedings of the Board or committee, as appropriate, and
+a copy of same shall be sent to each member of the Board or committee
+who did not sign such consent.
+
+The Board of Directors may take any action electronically as
+contemplated by the Indiana Uniform Electronic Transactions Act
+(``UETA''). For the sake of clarity and avoidance of doubt, subject to
+the requirements of the UETA, written consent by the Board of
+Directors can be undertaken via email, or other electronic record
+communication, if the written board consent setting forth the action
+to be taken is circulated to all Board members via email, or other
+electronic record communication, and the directors indicate their
+approval unanimously by return email or other approved electronic
+record communication. The Corporation shall confirm with each director
+the electronic address or addresses, such as an email address or text
+message number, for that director to be used for purposes of sending
+and receiving email, text, or other electronic record communications,
+and for the purpose of notices to and from the Corporation, and shall
+maintain such information as part of the Corporation's current
+records, which may be maintained electronically. The Corporation shall
+provide its electronic address, and the electronic addresses of the
+other members of the Board of Directors, to be used for purposes of
+taking such action. The Board of Directors may provide for any
+particular requirements, method, or means for taking action
+electronically and for notices to and from the Corporation and its
+directors, in which case the action to be taken shall be taken in
+accordance with such requirements, method, or means.
+\end{quote}
+
+\section{Notice}\label{notice}
+
+\begin{quote}
+A Director may waive any notice required by these Bylaws, before or
+after the date and time stated in the notice, by written waiver signed
+by such Director, which waiver will be included in the minutes or
+filing with the corporate records. A Director's attendance at a
+meeting waives objection to lack of notice or defective notice of the
+meeting unless the Director at the beginning of the meeting objects to
+holding the meeting or transacting business at the meeting because the
+meeting is not lawfully called or convened.
+\end{quote}
+
+\section{Director Compensation}\label{director-compensation}
+
+\begin{quote}
+Directors as such will not receive any compensation for their services
+as Directors, but by resolution of the Board may be reimbursed for
+their expenses of attendance at meetings of the Board; provided, that
+nothing herein contained will be construed to preclude any Director
+from serving the Corporation in any other capacity and receiving
+reasonable compensation for personal services actually rendered. The
+Corporation shall not loan money or property to, or guarantee the
+obligation of, any Director.
+\end{quote}
+
+\section{Resignation}\label{resignation}
+
+\begin{quote}
+A Director may resign at any time by delivering a written resignation
+to the Moderator of the Members. Such resignation will be effective
+upon receipt unless it is specified to be effective at some other time
+or upon the happening of some other event.
+\end{quote}
+
+\section{Removal}\label{removal}
+
+\begin{quote}
+The Board may recommend to the Members a Director's removal. If a
+Director proposes that another Director be removed, written notice of
+the proposal shall be given to that Director at least ten days before
+the meeting at which a recommendation of removal will be considered.
+If a majority of the Board votes to recommend removal, the Session
+will be notified of the recommendation.
+\end{quote}
+
+\chapter{Committees of the Board}\label{committees-of-the-board}
+
+The Board, by resolution adopted by a majority of the Directors in
+office, may designate and appoint one or more committees of the Board.
+Each such committee need not be composed entirely of directors.
+Provided, however, that if a committee is to exercise board powers,
+functions, or authority, (a)~all the persons serving on the committee
+must be directors, (b)~there must be at least three persons on the
+committee, and (c)~the creation of the committee and the appointment of
+its members shall be by a majority of all directors in office when the
+action is taken. A majority of the whole committee will constitute a
+quorum and the act of a majority of the members present at a meeting at
+which a quorum is present will be the act of the committee.
+
+\chapter{Officers}\label{officers}
+
+\section{Elected Officers}\label{elected-officers}
+
+\begin{quote}
+The elected officers of the Corporation shall minimally consist of a
+President, a Secretary and a Treasurer. The Corporation may also have
+a Moderator of the Board and such other officers, both active and
+honorary, as the Board may from time to time deem advisable. Such
+officers will be elected by the Board at its annual meeting, and they
+will hold office until their successors are elected at the next annual
+meeting of the Board and are elected and qualified, unless they
+earlier die, resign, or are removed from office. Any person may
+simultaneously hold more than one office, except that the offices of
+President and Secretary shall not be held by the same person.
+\end{quote}
+
+\section{Duties of Moderator of the Board}\label{duties-of-moderator-of-the-board}
+
+\begin{quote}
+If a Moderator of the Board is elected, the Moderator of the Board
+will preside at all meetings of the Board at which that person may be
+present and will have such other duties, powers and authority as may
+be prescribed elsewhere in these Bylaws. The Board may delegate such
+other authority and assign such additional duties to the Moderator of
+the Board, other than those conferred by law exclusively upon the
+President or another officer, as the Board may from time to time
+determine.
+\end{quote}
+
+\section{Duties of President/Principal}\label{duties-of-presidentprincipal}
+
+\begin{quote}
+The President, who may also be referred to as the Principal, will be
+the chief executive officer of the Corporation and, if a Moderator of
+the Board has not been elected, that person will preside at all
+meetings of the Board.
+
+The Principal may execute all contracts, deeds and other instruments
+for and on behalf of the Corporation and will do and perform all other
+things for and on behalf of the Corporation as the Board will
+authorize and direct. The Principal will enjoy and discharge generally
+such other and further rights, powers, privileges and duties as
+customarily relate and pertain to the office of President. The
+Principal shall hire and oversee Teachers, Teacher's Aide, and
+Administrators.
+
+The Principal shall serve as a director, ex officio, with voice but no
+vote.
+\end{quote}
+
+\section{Duties of Secretary}\label{duties-of-secretary}
+
+\begin{quote}
+The Secretary will cause to be kept complete and correct minutes of
+all meetings of the Board. That person will cause to be issued notices
+of all meetings in accordance with these Bylaws or as required by law.
+When authorized and directed by the Board, that person will execute
+with the President all contracts, deeds, and other instruments for and
+on behalf of the Corporation. The Secretary will be the legal
+custodian of all books, deeds, instruments, papers, and records of the
+Corporation, the inspection of which will be permitted at all
+reasonable times by any Director or executive officer of the
+Corporation.
+
+The Secretary will attend to such correspondence as may be incidental
+to that person's office, and will perform all other duties and
+discharge all other responsibilities which customarily relate and
+pertain to the office of Secretary.
+\end{quote}
+
+\section{Duties of Treasurer}\label{duties-of-treasurer}
+
+\begin{quote}
+The Treasurer will cause to be kept accurate and complete books and
+records of all receipts, disbursements, assets, liabilities, and
+financial transactions of the Corporation. The Treasurer will cause to
+be deposited all monies, securities, and other valuable effects of the
+Corporation in such depositories as the Board will authorize and
+direct and, whenever requested to do so by the President or the Board,
+will prepare and submit written statements, reports and accounts fully
+and accurately reflecting the assets, liabilities, and financial
+transactions and condition of the Corporation.
+
+The Treasurer will perform such other and further duties as the Board
+may from time to time direct, and that person will perform all other
+duties and discharge all other responsibilities that customarily
+relate and pertain to the office of Treasurer.
+
+The Treasurer will be released and discharged of all liabilities and
+responsibility for any monies, securities, and other assets of value
+committed by the Board to the custody of any person over whom that
+person will have no direction or control.
+\end{quote}
+
+\section{Resignation and Removal}\label{resignation-and-removal}
+
+\begin{quote}
+Any officer of the Corporation may resign by delivering a written
+resignation to the Corporation at its principal office or to the
+Moderator of the Board, the President or the Secretary. Such
+resignation will be effective upon receipt unless it is specified to
+be effective at some other time or upon the happening of some other
+event. If a resignation is made effective at a future date and the
+Corporation accepts the future effective date, the Board may fill the
+pending vacancy before the effective date if the Board provides that
+the successor does not take office until the effective date. Any
+officer of the Corporation may be removed from office by the Board
+with or without cause, but such removal will be without prejudice to
+the contract rights, if any, of the person so removed. Election or
+appointment of an officer does not in itself create contract rights.
+\end{quote}
+
+\section{Vacancies}\label{vacancies}
+
+\begin{quote}
+Vacancies in any elected office occasioned by the death, resignation,
+or removal of any elected officer will be filled by the Board, and
+such person or persons elected to fill such vacancy or vacancies will
+serve for the unexpired term of that person's predecessor and until a
+successor is elected and qualified, or until such officer's earlier
+death, resignation or removal. Vacancies in any appointed office
+occasioned by the death, resignation, or removal of any appointed
+officer may be filled by the President, and such person or persons
+appointed to fill such vacancy or vacancies will serve for the
+unexpired term of that person's predecessor and until a successor is
+elected and qualified, or until such officer's earlier death,
+resignation or removal.
+\end{quote}
+
+\section{Compensation}\label{compensation}
+
+\begin{quote}
+The compensation, if any, of the officers, will be fixed from time to
+time by the Board, and no officer will be prevented from receiving
+such compensation by reason of the fact that that person is also a
+Director of the Corporation; provided, however, that such compensation
+will include only reasonable compensation for personal services
+actually rendered.
+\end{quote}
+
+\chapter{Teachers and Administrators}\label{teachers-and-administrators}
+
+\section{Qualifications of Teachers, Teacher's Aides, and Administrators}\label{qualifications-of-teachers-teachers-aides-and-administrators}
+
+\begin{quote}
+To qualify for and continue service as a Teacher, Teacher's Aide, or
+Administrator at Cedars, a person must:
+\end{quote}
+
+\subsection{profess to be a Christian and live as such;}\label{profess-to-be-a-christian-and-live-as-such}
+
+\subsection{be committed and adhere to a Biblical view of authority and sexuality, particularly God's ordering of the sexes, as described by the Declaration of Doctrine and Policies Concerning Sexuality, Chapter 28, Evangel Presbytery Book of Church Order;}\label{be-committed-and-adhere-to-a-biblical-view-of-authority-and-sexuality-particularly-gods-ordering-of-the-sexes-as-described-by-the-declaration-of-doctrine-and-policies-concerning-sexuality-chapter-28-evangel-presbytery-book-of-church-order}
+
+\subsection{be a communicant member and regular attendee of a Bible-believing church; and}\label{be-a-communicant-member-and-regular-attendee-of-a-bible-believing-church-and}
+
+\subsection{hold to Benjamin B. Warfield's ``A Brief and Untechnical Statement of the Reformed Faith''}\label{hold-to-benjamin-b.-warfields-a-brief-and-untechnical-statement-of-the-reformed-faith}
+
+\begin{quote}
+Each Teacher and Teacher's Aide shall confirm in writing their
+agreement with Cedars' Statement of Faith, Code of Christian Conduct,
+and Statement regarding Religious Instruction.
+\end{quote}
+
+\section{Dismissal of a Teacher or Teacher's Aide}\label{dismissal-of-a-teacher-or-teachers-aide}
+
+\begin{quote}
+A Teacher or Teacher's Aide may be dismissed by the Principal with or
+without cause. All such dismissals will be reported to the Board.
+\end{quote}
+
+\chapter{Students}\label{students}
+
+\section{Qualifications of Students}\label{qualifications-of-students}
+
+\begin{quote}
+Any child, at the sole discretion of the Board, may be a student of
+Cedars if the child's parent or guardian submits to the Bylaws
+(including any future amendments) and abides by Cedars' policies and
+agrees to support and further the purpose of Cedars.
+\end{quote}
+
+\section{Expulsion}\label{expulsion}
+
+\begin{quote}
+A Student may be expelled by the Board with or without cause.
+\end{quote}
+
+\section{Parents Acknowledge Christian Education}\label{parents-acknowledge-christian-education}
+
+\begin{quote}
+Parents of a student will sign an acknowledgement that Cedars provides
+a Christian education consistent with Scripture.
+\end{quote}
+
+\chapter{General Provisions}\label{general-provisions}
+
+\section{Contracts}\label{contracts}
+
+\begin{quote}
+The Board may authorize any officer or officers, agent or agents, to
+enter into any contract or execute and deliver any instrument in the
+name of and on behalf of the Corporation, and such authority may be
+general or confined to specific instances. Notwithstanding the
+foregoing, unless otherwise limited by the Board, the President of the
+Corporation will have the power and authority to execute on behalf of
+and bind the Corporation with respect to contracts in the ordinary
+course of the Corporation\textquotesingle s business and activities.
+\end{quote}
+
+\section{Loans}\label{loans}
+
+\begin{quote}
+No loans may be contracted on behalf of the Corporation and no
+evidences of indebtedness may be issued in its name unless authorized
+by the Board. Such authority may be general or confined to specific
+instances. The Corporation is prohibited from making loans, excluding
+advances made for legal defense made pursuant to the indemnification
+obligations of the Corporation as set forth in the Articles, to its
+Directors or officers under any circumstances.
+\end{quote}
+
+\section{Checks, Drafts, and Similar Instruments}\label{checks-drafts-and-similar-instruments}
+
+\begin{quote}
+All checks, drafts or other orders for the payment of money, notes or
+other evidences of indebtedness issued in the name of the Corporation
+will be signed by such officer or officers, agent or agents of the
+Corporation and in such manner as may from time to time be determined
+by the Board.
+
+The President may dispense the funds of the Corporation in accordance
+with the annual budget approved by the Board and in furtherance of the
+purposes of the Corporation as set forth in the Articles and these
+Bylaws. Any financial transactions not approved as part of the annual
+budget that have a value of \$10,000 or more shall require the prior
+approval of the Board.
+\end{quote}
+
+\section{Deposits}\label{deposits}
+
+\begin{quote}
+All funds of the Corporation will be deposited from time to time to
+the credit of the Corporation in such banks, trust companies or other
+depositories as the Board may select.
+\end{quote}
+
+\section{Custodians}\label{custodians}
+
+\begin{quote}
+The Board may from time to time designate a bank, trust company or
+depository as custodian of the funds and properties of the
+Corporation, which custodian will maintain a record of all receipts,
+expenditures, income and expenses of the Corporation and/or perform
+such ministerial duties as the Board by written direction may
+instruct. The custodian may receive fees for its services as may from
+time to time be agreed upon by the Board and the custodian.
+\end{quote}
+
+\section{Agents and Attorneys}\label{agents-and-attorneys}
+
+\begin{quote}
+The Board may appoint such agents, attorneys and attorneys in fact of
+the Corporation as it may deem proper, and may, by written power of
+attorney, authorize such agents, attorneys or attorneys-in-fact to
+represent it and for it and in its name, place and stead, and for its
+use and benefit to transact any and all business which said
+Corporation is authorized to transact or do by the Articles, and in
+its name, place and stead, and as its corporate act and deed, to sign,
+acknowledge and execute any and all contracts and instruments, in
+writing necessary or convenient in the transaction of such business as
+fully to all intents and purposes as said Corporation might or could
+do if it acted by and through its regularly elected and qualified
+officers.
+\end{quote}
+
+\section{Corporate Seal}\label{corporate-seal}
+
+\begin{quote}
+The Corporation may, but need not, have a corporate seal. The form of
+any such corporate seal may be specified in a resolution of the Board
+of Directors. A corporate seal, however, shall not be required for any
+purpose, and its absence shall not invalidate any document or action.
+\end{quote}
+
+\section{Fiscal Year}\label{fiscal-year}
+
+\begin{quote}
+The Board will have the power to fix and from time to time change the
+fiscal year of the Corporation. In the absence of contrary action by
+the Board, the fiscal year of the Corporation will begin on the first
+day of June in each year and end on the last day of May in each year.
+\end{quote}
+
+\section{Interpretation}\label{interpretation}
+
+\begin{quote}
+The terms ``include'', ``including'' and similar terms shall be construed
+as if followed by the phrase ``without being limited to''. The term ``or''
+has, except where otherwise indicated, the inclusive meaning
+represented by the phrase ``and/or.'' The words ``hereof,'' ``herein,''
+``hereby,'' ``hereunder,'' and similar terms in these Bylaws refer to
+these Bylaws as a whole and not to any particular provision or section
+of these Bylaws. The masculine gender, when used throughout these
+Bylaws, will be deemed to include the feminine.
+\end{quote}
+
+\section{Limitation on Liability and Indemnification}\label{limitation-on-liability-and-indemnification}
+
+\begin{quote}
+Limitations on liability and indemnification of officers and Directors
+of the Corporation shall be as provided in the Articles.
+\end{quote}
+
+\section{Property Devoted to Corporate Purposes}\label{property-devoted-to-corporate-purposes}
+
+\begin{quote}
+All income and properties of the Corporation will be devoted
+exclusively to the purposes as provided in the Articles and these
+Bylaws. The Board may adopt such policies, regulations and procedures
+governing the management and/or disbursement of funds for such
+purposes as in its opinion are reasonably calculated to carry out such
+purposes as set forth in the Articles and these Bylaws.
+\end{quote}
+
+\chapter{Amendments to the Bylaws}\label{amendments-to-the-bylaws}
+
+These Bylaws may be amended, altered, repealed, or superseded by a vote
+of the Members at any duly called meeting. Written notice of the
+proposed amendment shall be given to the Members ten days before the
+meeting at which the amendment is to be proposed.
+
+\end{document}
