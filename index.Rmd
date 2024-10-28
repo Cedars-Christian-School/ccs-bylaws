@@ -9,7 +9,7 @@ github-repo: Cedars-Christian-School/ccs-bylaws
 description: "These are the bylaws for Cedars Christian School."
 ---
 
-# Welcome {-}
+# Introduction {-}
 
 Write things here.
 
