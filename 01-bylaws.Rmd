@@ -34,15 +34,15 @@ Notwithstanding any other provision of these Articles of Incorporation, the Corp
 
 ## 2. Members
 
-## Members
+### 2.1 Members
 
 The corporation will have members ("Members"). As provided in the Articles of Incorporation, members of Cedars shall be the active and voting members of the session of Trinity Reformed Church of Bloomington, Indiana, Inc. The Moderator of the session shall preside over all annual, regular, and special meetings of the members.
 
-## Membership Certificates
+### 2.2 Membership Certificates
 
 Cedars will not have membership certificates unless otherwise authorized by the Board of Directors. The form of any such certificate, if authorized, shall be prescribed by the Board of Directors.
 
-## Duration of Membership; Resignation
+### 2.3 Duration of Membership; Resignation
 
 Membership in Cedars may terminate by voluntary resignation as provided in these Bylaws or by law. If a member ceases to be an active and voting member of the session of Trinity Reformed Church of Bloomington, Indiana, Inc., then his membership in Cedars ceases. All rights and privileges of a member in Cedars shall cease on the
 termination of membership. Any member may voluntarily resign at any
@@ -54,7 +54,7 @@ member from any obligations the member may have to Cedars as a result
 of obligations incurred or commitments made before such resignation,
 including any unpaid dues, fees or assessments.
 
-## Dues, Fees, and Assessments
+### 2.4 Dues, Fees, and Assessments
 
 There shall be no membership fees, dues, and assessments applicable to
 membership in the Corporation.
@@ -96,7 +96,7 @@ not held on the day designated herein for any annual meeting, or at an
 adjournment thereof, the Members will cause the election to be held at
 a special meeting as soon as conveniently possible.
 
-## Regular Members Meetings
+### 3.2 Regular Members Meetings
 
 Cedars may hold regular Membership meetings at times stated in or
 fixed by a resolution of the Members. Regular Membership meetings
