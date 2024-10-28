@@ -1,5 +1,5 @@
 bylaws
-name-and-purpose---does-this-even-work
+name-and-purpose
 name
 purpose
 limitations-on-earnings
