@@ -1,6 +1,6 @@
 # Bylaws
 
-## 1. Name and Purpose - does this even work?
+## 1. Name and Purpose
 
 ### 1.1 Name
 
@@ -103,7 +103,7 @@ fixed by a resolution of the Members. Regular Membership meetings
 shall be held at the place specified in the notice of the meeting;
 otherwise, such meeting shall be held at Cedars's principal office.
 
-## Special Members Meetings
+### 3.3 Special Members Meetings
 
 Special meetings of the Members may be called by the Principal, by the
 Board of Directors, or by one or more petitions in writing signed,
@@ -114,7 +114,7 @@ meetings shall be held at the place specified in the notice of
 meeting; otherwise, such meetings shall be held at the Corporation's
 principal office.
 
-## Notice of Members Meetings
+### 3.4 Notice of Members Meetings
 
 Written notice stating the place, date and time of any meeting of the
 Members and, if the quorum of Members for the meeting is less than
@@ -142,7 +142,7 @@ that is not within the purposes described in the meeting notice,
 unless the Member objects to considering the matter when the matter is
 presented.
 
-## Members Quorum and Voting
+### 3.5 Members Quorum and Voting
 
 A quorum is two Elders, if there are three or more, or one ruling
 Elder, if there are fewer than three, together with the Pastor, unless
@@ -153,7 +153,7 @@ present will be entitled to one vote upon each matter submitted to a
 vote at any such meeting. All motions will be decided by majority
 vote. If the vote is a tie, the motion does not carry.
 
-## Voting List
+### 3.6 Voting List
 
 The Board of Directors may fix a record date to determine the Members
 entitled to notice of a Members' meeting, to demand a special meeting,
@@ -170,12 +170,12 @@ Corporation shall prepare a list of the names and electronic addresses
 of the Corporation's Members who are entitled to notice of the
 Members' meeting.
 
-## No Voting by Proxy
+### 3.7 No Voting by Proxy
 
 A Member entitled to vote at any meeting of Members may not vote by
 proxy.
 
-## Members Meeting by Remote Communications Technology
+### 3.8 Members Meeting by Remote Communications Technology
 
 A meeting of the Members or any committee designated by the Members
 may be held by means of a remote electronic communications system,
@@ -186,7 +186,7 @@ with each other participant. A Member's participation in a meeting
 held in a manner provided for in this section constitutes that
 Member's presence at the meeting.
 
-## Director Removal; Vacancy
+### 3.9 Director Removal; Vacancy
 
 A Director elected by the Members may be removed with or without cause
 at any meeting of the Members by a majority vote, provided notice of
@@ -198,7 +198,7 @@ vote of the majority of the Members. Any Director elected to fill a
 vacancy on the Board will serve a term expiring as of the scheduled
 expiration date of the term of that person\'s predecessor.
 
-## Ultimate Authority and Interpretation
+### 3.10 Ultimate Authority and Interpretation
 
 The final rule of faith and practice for all aspects of
 Cedars---including its teaching, operations, management, and
@@ -206,12 +206,12 @@ administration---is Holy Scripture. The Members have final authority
 over the interpretation and application of Holy Scripture to the work
 of Cedars.
 
-## Member Compensation
+### 3.11 Member Compensation
 
 Other than reimbursement for qualified expenses, Members will receive
 no compensation for services.
 
-## Action by Consent
+### 3.12 Action by Consent
 
 a)  Any action required or permitted to be taken at a meeting of the
     Members may be taken without a meeting if the action is approved by
@@ -252,7 +252,7 @@ b)  Subject to satisfying the requirements provided in Section 3.12(a),
 
 ## 4. Board of Directors
 
-## General Powers
+### 4.1 General Powers
 
 Other than such rights reserved for the Members under these Bylaws,
 the Articles, or the Act, the affairs of Cedars will be managed by a
