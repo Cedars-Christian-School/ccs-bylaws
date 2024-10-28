@@ -59,9 +59,9 @@ including any unpaid dues, fees or assessments.
 There shall be no membership fees, dues, and assessments applicable to
 membership in the Corporation.
 
-# Meetings of Members
+## 3. Meetings of Members
 
-## Annual Meeting of the Members
+### 3.1 Annual Meeting of the Members
 
 The annual meeting of the Members will be held on the second Thursday
 of May of each year, or at such other time as may be designated by the
@@ -250,7 +250,7 @@ b)  Subject to satisfying the requirements provided in Section 3.12(a),
     Members, in which case the action to be taken shall be taken in
     accordance with such requirements, method, or means.
 
-# Board of Directors
+## 4. Board of Directors
 
 ## General Powers
 
@@ -455,7 +455,7 @@ of Indiana.
 > If a majority of the Board votes to recommend removal, the Session
 > will be notified of the recommendation.
 
-# Committees of the Board
+## 5. Committees of the Board
 
 The Board, by resolution adopted by a majority of the Directors in
 office, may designate and appoint one or more committees of the Board.
@@ -469,7 +469,7 @@ action is taken. A majority of the whole committee will constitute a
 quorum and the act of a majority of the members present at a meeting at
 which a quorum is present will be the act of the committee.
 
-# Officers
+## 6. Officers
 
 ## Elected Officers
 
@@ -594,7 +594,7 @@ which a quorum is present will be the act of the committee.
 > will include only reasonable compensation for personal services
 > actually rendered.
 
-# Teachers and Administrators
+## 7. Teachers and Administrators
 
 ## Qualifications of Teachers, Teacher's Aides, and Administrators
 
@@ -618,7 +618,7 @@ which a quorum is present will be the act of the committee.
 > A Teacher or Teacher's Aide may be dismissed by the Principal with or
 > without cause. All such dismissals will be reported to the Board.
 
-# Students
+## 8. Students
 
 ## Qualifications of Students
 
@@ -636,7 +636,7 @@ which a quorum is present will be the act of the committee.
 > Parents of a student will sign an acknowledgement that Cedars provides
 > a Christian education consistent with Scripture.
 
-# General Provisions
+## 9. General Provisions
 
 ## Contracts
 
@@ -744,7 +744,7 @@ which a quorum is present will be the act of the committee.
 > purposes as in its opinion are reasonably calculated to carry out such
 > purposes as set forth in the Articles and these Bylaws.
 
-# Amendments to the Bylaws
+## 10. Amendments to the Bylaws
 
 These Bylaws may be amended, altered, repealed, or superseded by a vote
 of the Members at any duly called meeting. Written notice of the
