@@ -129,7 +129,7 @@ officers or persons calling the meeting. Provided, however, any action
 taken by the Members shall not be invalidated, and notice shall not be
 considered improper, if notice, including oral notice, is given in a
 fair and reasonable manner.
->
+
 Notice of any meeting may be waived in writing by any Member before or
 after the date and time of the meeting, if the waiver is signed by the
 Member and delivered to Cedars for inclusion in the minutes or filing
@@ -192,7 +192,7 @@ A Director elected by the Members may be removed with or without cause
 at any meeting of the Members by a majority vote, provided notice of
 intention to act upon such matter shall have been given in the notice
 calling such meeting.
->
+
 A vacancy on the Board of Directors may be filled by the affirmative
 vote of the majority of the Members. Any Director elected to fill a
 vacancy on the Board will serve a term expiring as of the scheduled
@@ -260,9 +260,9 @@ Board of Directors ("Board"). The Board is responsible for overseeing
 all aspects of Cedars Christian School, including its teaching,
 operations, management, and administration.
 
-## Qualifications of Directors
+### 4.2 Qualifications of Directors
 
-> To qualify for and continue service on the Board, a Director must:
+To qualify for and continue service on the Board, a Director must:
 
 a)  profess to be a Christian and live as such;
 
@@ -277,14 +277,14 @@ c)  be a communicant member and regular attendee of a Bible-believing
 d)  hold to Benjamin B. Warfield's "A Brief and Untechnical Statement of
     the Reformed Faith."
 
-## Election and Term
+### 4.3 Election and Term
 
 The Members have the exclusive authority to elect and remove
 directors. The Directors will be elected at the annual meeting of the
 Members. The term of office of a director shall be three years.
 Directors may be elected for successive terms.
 
-## Class
+### 4.4 Class
 
 To provide for staggered terms of office, the Directors will be
 divided, as evenly as possible, into three classes with respect to the
@@ -311,7 +311,7 @@ group of Directors will hold office for a term which will expire with
 the term of the Directors in such group. Each class has the same
 rights and obligations.
 
-## Number of Directors
+### 4.5 Number of Directors
 
 The number of Directors on the Board (\"Directors\") will initially be
 four. The number of Directors may be changed from time to time by
@@ -321,65 +321,31 @@ the number of Directors will have the effect of decreasing the term of
 any incumbent Director. Directors need not be residents of the State
 of Indiana.
 
-## Board Meetings
+### 4.6 Board Meetings
 
-> The President will preside over meetings of the Board, including the
-> preparation of meeting agendas. The Board may provide, by resolution,
-> the time and place, either within or without the State of Indiana for
-> the holding of regular meetings, other than the annual meeting,
-> without notice other than such resolution.
+The President will preside over meetings of the Board, including the preparation of meeting agendas. The Board may provide, by resolution, the time and place, either within or without the State of Indiana for the holding of regular meetings, other than the annual meeting, without notice other than such resolution.
 
-## Annual Meeting
+### 4.7 Annual Meeting
 
-> The annual meeting of the Board will be held on the First Monday of
-> June of each year, which meeting will be held for the transaction of
-> such business as may come before the meeting. If for any year the day
-> fixed for the annual meeting is a legal holiday, such meeting will be
-> held on the next succeeding business day. The annual meeting of the
-> Board shall be held at the principal office or place of business of
-> the Corporation or such other place either within or without the State
-> of Indiana, as may be specified in the respective notices or waivers
-> of notice.
+The annual meeting of the Board will be held on the First Monday of June of each year, which meeting will be held for the transaction of such business as may come before the meeting. If for any year the day fixed for the annual meeting is a legal holiday, such meeting will be held on the next succeeding business day. The annual meeting of the Board shall be held at the principal office or place of business of the Corporation or such other place either within or without the State of Indiana, as may be specified in the respective notices or waivers of notice.
 
-## Special Meeting
+### 4.8 Special Meeting
 
-> A special meeting of the Board may be called by any two Directors or
-> the Principal. Notice to the Directors of a special meeting of the
-> Board will be given at least five days prior to the meeting and may be
-> delivered personally, by mail, or e-mail, to the address or e-mail
-> address for each Director as it appears on the records of the
-> Corporation. If mailed, such notice will be deemed to be delivered
-> when deposited in the United States mail in a sealed envelope so
-> addressed, with postage thereon prepaid.
+A special meeting of the Board may be called by any two Directors or the Principal. Notice to the Directors of a special meeting of the Board will be given at least five days prior to the meeting and may be delivered personally, by mail, or e-mail, to the address or e-mail address for each Director as it appears on the records of the Corporation. If mailed, such notice will be deemed to be delivered when deposited in the United States mail in a sealed envelope so addressed, with postage thereon prepaid.
 
-## Quorum
+### 4.9 Quorum
 
-> A majority of the Directors on the Board will constitute a quorum for
-> the transaction of business at any meeting of the Board; provided that
-> if less than a majority of the Directors are present at said meeting,
-> a majority of the Directors present may adjourn the meeting from time
-> to time without further notice.
+A majority of the Directors on the Board will constitute a quorum for the transaction of business at any meeting of the Board; provided that if less than a majority of the Directors are present at said meeting, a majority of the Directors present may adjourn the meeting from time to time without further notice.
 
-## Voting
+### 4.10 Voting
 
-> Each Director present will be entitled to one vote upon each matter
-> submitted to a vote at any such meeting. All motions will be decided
-> by majority vote. If the vote is a tie, the motion does not carry.
+Each Director present will be entitled to one vote upon each matter submitted to a vote at any such meeting. All motions will be decided by majority vote. If the vote is a tie, the motion does not carry.
 
-## Meeting by Remote Communications Technology
+### 4.11 Meeting by Remote Communications Technology
 
-> A meeting of the Board or any committee designated by the Board may be
-> held by means of a remote electronic communications system, including
-> videoconferencing technology or the Internet, only if each person
-> entitled to participate in the meeting consents to the meeting being
-> held by means of that system; and the system provides access to the
-> meeting in a manner or using a method by which each person
-> participating in the meeting can communicate concurrently with each
-> other participant. A Director's participation in a meeting held in a
-> manner provided for in this section constitutes that Director's
-> presence at the meeting.
+A meeting of the Board or any committee designated by the Board may be held by means of a remote electronic communications system, including videoconferencing technology or the Internet, only if each person entitled to participate in the meeting consents to the meeting being held by means of that system; and the system provides access to the meeting in a manner or using a method by which each person participating in the meeting can communicate concurrently with each other participant. A Director's participation in a meeting held in a manner provided for in this section constitutes that Director's presence at the meeting.
 
-## Action Without Meetings
+### 4.12 Action Without Meetings
 
 > Any action required or permitted by law to be taken at any meeting of
 > the Board or any committee thereof may be taken without a meeting,
@@ -417,7 +383,7 @@ of Indiana.
 > directors, in which case the action to be taken shall be taken in
 > accordance with such requirements, method, or means.
 
-## Notice
+### 4.13 Notice
 
 > A Director may waive any notice required by these Bylaws, before or
 > after the date and time stated in the notice, by written waiver signed
@@ -428,7 +394,7 @@ of Indiana.
 > holding the meeting or transacting business at the meeting because the
 > meeting is not lawfully called or convened.
 
-## Director Compensation
+### 4.14 Director Compensation
 
 > Directors as such will not receive any compensation for their services
 > as Directors, but by resolution of the Board may be reimbursed for
@@ -439,14 +405,14 @@ of Indiana.
 > Corporation shall not loan money or property to, or guarantee the
 > obligation of, any Director.
 
-## Resignation
+### 4.15 Resignation
 
 > A Director may resign at any time by delivering a written resignation
 > to the Moderator of the Members. Such resignation will be effective
 > upon receipt unless it is specified to be effective at some other time
 > or upon the happening of some other event.
 
-## Removal
+### 4.16 Removal
 
 > The Board may recommend to the Members a Director's removal. If a
 > Director proposes that another Director be removed, written notice of
@@ -471,7 +437,7 @@ which a quorum is present will be the act of the committee.
 
 ## 6. Officers
 
-## Elected Officers
+### 6.1 Elected Officers
 
 > The elected officers of the Corporation shall minimally consist of a
 > President, a Secretary and a Treasurer. The Corporation may also have
@@ -484,7 +450,7 @@ which a quorum is present will be the act of the committee.
 > simultaneously hold more than one office, except that the offices of
 > President and Secretary shall not be held by the same person.
 
-## Duties of Moderator of the Board
+### 6.2 Duties of Moderator of the Board
 
 > If a Moderator of the Board is elected, the Moderator of the Board
 > will preside at all meetings of the Board at which that person may be
@@ -495,7 +461,7 @@ which a quorum is present will be the act of the committee.
 > President or another officer, as the Board may from time to time
 > determine.
 
-## Duties of President/Principal
+### 6.3 Duties of President/Principal
 
 > The President, who may also be referred to as the Principal, will be
 > the chief executive officer of the Corporation and, if a Moderator of
@@ -514,7 +480,7 @@ which a quorum is present will be the act of the committee.
 > The Principal shall serve as a director, ex officio, with voice but no
 > vote.
 
-## Duties of Secretary
+### 6.4 Duties of Secretary
 
 > The Secretary will cause to be kept complete and correct minutes of
 > all meetings of the Board. That person will cause to be issued notices
@@ -532,7 +498,7 @@ which a quorum is present will be the act of the committee.
 > discharge all other responsibilities which customarily relate and
 > pertain to the office of Secretary.
 
-## Duties of Treasurer
+### 6.5 Duties of Treasurer
 
 > The Treasurer will cause to be kept accurate and complete books and
 > records of all receipts, disbursements, assets, liabilities, and
@@ -554,7 +520,7 @@ which a quorum is present will be the act of the committee.
 > committed by the Board to the custody of any person over whom that
 > person will have no direction or control.
 
-## Resignation and Removal
+### 6.6 Resignation and Removal
 
 > Any officer of the Corporation may resign by delivering a written
 > resignation to the Corporation at its principal office or to the
@@ -570,7 +536,7 @@ which a quorum is present will be the act of the committee.
 > the contract rights, if any, of the person so removed. Election or
 > appointment of an officer does not in itself create contract rights.
 
-## Vacancies
+### 6.7 Vacancies
 
 > Vacancies in any elected office occasioned by the death, resignation,
 > or removal of any elected officer will be filled by the Board, and
@@ -585,7 +551,7 @@ which a quorum is present will be the act of the committee.
 > elected and qualified, or until such officer's earlier death,
 > resignation or removal.
 
-## Compensation
+### 6.8 Compensation
 
 > The compensation, if any, of the officers, will be fixed from time to
 > time by the Board, and no officer will be prevented from receiving
@@ -596,24 +562,18 @@ which a quorum is present will be the act of the committee.
 
 ## 7. Teachers and Administrators
 
-## Qualifications of Teachers, Teacher's Aides, and Administrators
+### 7.1 Qualifications of Teachers, Teacher's Aides, and Administrators
 
-> To qualify for and continue service as a Teacher, Teacher's Aide, or
-> Administrator at Cedars, a person must:
+To qualify for and continue service as a Teacher, Teacher's Aide, or Administrator at Cedars, a person must:
 
-### profess to be a Christian and live as such;
+a. profess to be a Christian and live as such;
+b. be committed and adhere to a Biblical view of authority and sexuality, particularly God's ordering of the sexes, as described by the Declaration of Doctrine and Policies Concerning Sexuality, Chapter 28, Evangel Presbytery Book of Church Order;
+c. be a communicant member and regular attendee of a Bible-believing church; and
+d. hold to Benjamin B. Warfield's "A Brief and Untechnical Statement of the Reformed Faith"
 
-### be committed and adhere to a Biblical view of authority and sexuality, particularly God's ordering of the sexes, as described by the Declaration of Doctrine and Policies Concerning Sexuality, Chapter 28, Evangel Presbytery Book of Church Order;
+Each Teacher and Teacher's Aide shall confirm in writing their agreement with Cedars' Statement of Faith, Code of Christian Conduct, and Statement regarding Religious Instruction.
 
-### be a communicant member and regular attendee of a Bible-believing church; and
-
-### hold to Benjamin B. Warfield's "A Brief and Untechnical Statement of the Reformed Faith"
-
-> Each Teacher and Teacher's Aide shall confirm in writing their
-> agreement with Cedars' Statement of Faith, Code of Christian Conduct,
-> and Statement regarding Religious Instruction.
-
-## Dismissal of a Teacher or Teacher's Aide
+### 7.2 Dismissal of a Teacher or Teacher's Aide
 
 > A Teacher or Teacher's Aide may be dismissed by the Principal with or
 > without cause. All such dismissals will be reported to the Board.
