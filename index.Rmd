@@ -11,9 +11,9 @@ description: "These are the bylaws for Cedars Christian School."
 
 # Introduction {-}
 
-Write things here.
+These are the official bylaws for [Cedars Christian School](https://cedarschristian.org) in Bloomington, Indiana. You can always find the latest version at https://bylaws.cedarschristian.org. A printable, PDF version can be downloaded [here](ccs-bylaws.pdf), and an epub version suitable for e-readers can be downloaded [here](ccs-bylaws.epub).
 
-Cedars Christian School was established on ???. These bylaws were last amended on ???.
+A record of changes can be found in the [Updates](updates.html) section at the end of the book.
 
 THESE BYLAWS ARE SUBJECT TO ARBITRATION PURSUANT TO THE [INDIANA CODE SECTION 34-57-2-1 ET SEQ](https://iga.in.gov/legislative/laws/2022/ic/titles/034#34-57-2-1).
 

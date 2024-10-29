@@ -1,0 +1,5 @@
+# Updates {-}
+
+*Significant changes to these Bylaws will be listed here. For a detailed diff hosted at Github, [click here](https://github.com/Cedars-Christian-School/ccs-bylaws).*
+
+* **Current version:** Migrated from PDF only to Bookdown hosted on Github pages.
