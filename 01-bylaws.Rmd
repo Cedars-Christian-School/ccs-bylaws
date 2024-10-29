@@ -262,63 +262,63 @@ A Teacher or Teacher's Aide may be dismissed by the Principal with or without ca
 
 ## 8. Students
 
-## Qualifications of Students
+### 8.1 Qualifications of Students
 
 Any child, at the sole discretion of the Board, may be a student of Cedars if the child's parent or guardian submits to the Bylaws (including any future amendments) and abides by Cedars' policies and agrees to support and further the purpose of Cedars.
 
-## Expulsion
+### 8.2 Expulsion
 
 A Student may be expelled by the Board with or without cause.
 
-## Parents Acknowledge Christian Education
+### 8.3 Parents Acknowledge Christian Education
 
 Parents of a student will sign an acknowledgement that Cedars provides a Christian education consistent with Scripture.
 
 ## 9. General Provisions
 
-## Contracts
+### 9.1 Contracts
 
 The Board may authorize any officer or officers, agent or agents, to enter into any contract or execute and deliver any instrument in the name of and on behalf of the Corporation, and such authority may be general or confined to specific instances. Notwithstanding the foregoing, unless otherwise limited by the Board, the President of the Corporation will have the power and authority to execute on behalf of and bind the Corporation with respect to contracts in the ordinary course of the Corporation\'s business and activities.
 
-## Loans
+### 9.2 Loans
 
 No loans may be contracted on behalf of the Corporation and no evidences of indebtedness may be issued in its name unless authorized by the Board. Such authority may be general or confined to specific instances. The Corporation is prohibited from making loans, excluding advances made for legal defense made pursuant to the indemnification obligations of the Corporation as set forth in the Articles, to its Directors or officers under any circumstances.
 
-## Checks, Drafts, and Similar Instruments
+### 9.3 Checks, Drafts, and Similar Instruments
 
 All checks, drafts or other orders for the payment of money, notes or other evidences of indebtedness issued in the name of the Corporation will be signed by such officer or officers, agent or agents of the Corporation and in such manner as may from time to time be determined by the Board. 
 
 The President may dispense the funds of the Corporation in accordance with the annual budget approved by the Board and in furtherance of the purposes of the Corporation as set forth in the Articles and these Bylaws. Any financial transactions not approved as part of the annual budget that have a value of \$10,000 or more shall require the prior approval of the Board.
 
-## Deposits
+### 9.4 Deposits
 
 All funds of the Corporation will be deposited from time to time to the credit of the Corporation in such banks, trust companies or other depositories as the Board may select.
 
-## Custodians
+### 9.5 Custodians
 
 The Board may from time to time designate a bank, trust company or depository as custodian of the funds and properties of the Corporation, which custodian will maintain a record of all receipts, expenditures, income and expenses of the Corporation and/or perform such ministerial duties as the Board by written direction may instruct. The custodian may receive fees for its services as may from time to time be agreed upon by the Board and the custodian.
 
-## Agents and Attorneys
+### 9.6 Agents and Attorneys
 
 The Board may appoint such agents, attorneys and attorneys in fact of the Corporation as it may deem proper, and may, by written power of attorney, authorize such agents, attorneys or attorneys-in-fact to represent it and for it and in its name, place and stead, and for its use and benefit to transact any and all business which said Corporation is authorized to transact or do by the Articles, and in its name, place and stead, and as its corporate act and deed, to sign, acknowledge and execute any and all contracts and instruments, in writing necessary or convenient in the transaction of such business as fully to all intents and purposes as said Corporation might or could do if it acted by and through its regularly elected and qualified officers.
 
-## Corporate Seal
+### 9.7 Corporate Seal
 
 The Corporation may, but need not, have a corporate seal. The form of any such corporate seal may be specified in a resolution of the Board of Directors. A corporate seal, however, shall not be required for any purpose, and its absence shall not invalidate any document or action.
 
-## Fiscal Year
+### 9.8 Fiscal Year
 
 The Board will have the power to fix and from time to time change the fiscal year of the Corporation. In the absence of contrary action by the Board, the fiscal year of the Corporation will begin on the first day of June in each year and end on the last day of May in each year.
 
-## Interpretation
+### 9.9 Interpretation
 
 The terms "include", "including" and similar terms shall be construed as if followed by the phrase "without being limited to". The term "or" has, except where otherwise indicated, the inclusive meaning represented by the phrase "and/or." The words "hereof," "herein," "hereby," "hereunder," and similar terms in these Bylaws refer to these Bylaws as a whole and not to any particular provision or section of these Bylaws. The masculine gender, when used throughout these Bylaws, will be deemed to include the feminine.
 
-## Limitation on Liability and Indemnification
+### 9.10 Limitation on Liability and Indemnification
 
 Limitations on liability and indemnification of officers and Directors of the Corporation shall be as provided in the Articles.
 
-## Property Devoted to Corporate Purposes
+### 9.11 Property Devoted to Corporate Purposes
 
 All income and properties of the Corporation will be devoted exclusively to the purposes as provided in the Articles and these Bylaws. The Board may adopt such policies, regulations and procedures governing the management and/or disbursement of funds for such purposes as in its opinion are reasonably calculated to carry out such purposes as set forth in the Articles and these Bylaws.
 
